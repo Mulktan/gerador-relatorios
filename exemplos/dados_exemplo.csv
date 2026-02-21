@@ -1,0 +1,10 @@
+# Exemplo de dados para relatório
+Nome,Departamento,Vendas,Meta,Status
+Ana Souza,Financeiro,12000,15000,Em andamento
+Carlos Lima,Vendas,18000,17000,Concluído
+Beatriz Silva,TI,9000,10000,Em andamento
+Eduardo Alves,Marketing,15000,14000,Concluído
+Fernanda Costa,Recursos Humanos,8000,9000,Em andamento
+Gabriel Martins,Operações,11000,12000,Em andamento
+Helena Rocha,Jurídico,7000,8000,Em andamento
+João Pereira,Logística,13000,12500,Concluído
